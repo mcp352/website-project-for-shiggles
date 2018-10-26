@@ -16,5 +16,5 @@ Me and my friend are going to be working to collaborate on a very VERY basic web
 * Codeacademy.com
 
 ### Others
-W3 Schools
+* W3 Schools
 
