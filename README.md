@@ -13,7 +13,7 @@ Me and my friend are going to be working to collaborate on a very VERY basic web
 ## Where I Learn
 
 ### My Favorites
-*Codeacademy.com
+* Codeacademy.com
 
 ### Others
 W3 Schools
